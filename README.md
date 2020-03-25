@@ -1,1 +1,1 @@
-# vtb
+Viterbi decoding of convolutional codes
